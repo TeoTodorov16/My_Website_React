@@ -1,3 +1,37 @@
+# Idea
+
+React Portfolio Website - Build & Deploy React JS Portfolio Website.
+In this React js project, I'm going to step-by-step create and deploy a fully responsive personal portfolio website from scratch! By the end of this Project, I will gain the experience of how to create a React App from scratch, how to use the React Icons Library in my React projects, how to use React useState hooks, how to build modern website designs with CSS3, how to use SwiperJS (to create carousels/slides) in my React projects, how to add multiple contact options on my website (WhatsApp, Facebook Messenger, and Direct form submission using EmailJS), and planning on way more stuff!
+
+## How I worked on this project
+
+My goal was to simulate a professional work enviroment.
+[Portfolio React App](https://github.com/facebook/create-react-app).
+
+- I built this app based on Figma UI/UX designs
+- I worked with tasks on a Kanban board
+- I used feature branches and Pull Requests
+## How to navigate this project
+
+- Somewhat complex stateful logic
+- Responsive CSS using styled-components
+- Will integrate tests using React Testing Library
+​
+## Why i built the project this way
+​
+- I didn't use a state management library like Redux on purpose. For this app simple `useState` is sufficient. I realized that more and more projects don't use Redux anymore since GraphQL or react-query are often used for data management.
+
+- styled-components is a great library for styling. It includes an auto-prefixer, uses scoped classes and allows a seamless integration with JS.
+
+- My plan is to become a Full-Stack Developer eventually. But at the moment I focus on the FrontEnd. Also I have basic BackEnd knowledge as well and working my way up to Full-Stack :)
+
+- Testing is an essential part of production applications. Testing Library is the go-to library in the React community. I will cover the essential features of the app with tests.
+
+## If I had more time I would change this
+
+- Refactor some of the code.
+- Probably Use Redux for State Management.
+- Learn and Implement TypeScript into the Project.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
